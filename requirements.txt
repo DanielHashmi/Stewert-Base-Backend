@@ -6,3 +6,4 @@ pyttsx3==2.90
 edge-tts==6.1.10
 elevenlabs==0.2.27
 pydantic==2.5.3
+requests==2.31.0
